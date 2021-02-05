@@ -32,11 +32,11 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first time using Xcode to build a basic iOS app so it was a challenge identifying different functions within Xcode.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Pallavi Sreeram
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
